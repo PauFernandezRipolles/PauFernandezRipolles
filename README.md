@@ -1,5 +1,7 @@
-- Hi, I’m Pau Fernandez Ripolles 👋 
-- I want to show you some of my DATA ANALYSIS PROJECTS and my BOOTCAMP WORK at IT ACADEMY
+## Hi, I’m Pau Fernandez Ripolles 👋 
+I want to show you some of my 
+DATA ANALYSIS PROJECTS and my 
+BOOTCAMP WORK at IT ACADEMY
 
 
 <!---
